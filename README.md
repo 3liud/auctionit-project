@@ -15,7 +15,7 @@
   bid at that instace is set as the winner. 
 
 
-### Person:
+### Person:good
 
 He’ll be able to login, register, logout
 
