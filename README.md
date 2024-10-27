@@ -1,4 +1,4 @@
-# Bidding_store
+# Bidding_store revisist
  # Models:
   ### Product model (Product)
   -contains the items begin sold and the various attributes.
